@@ -1,12 +1,12 @@
 {
-"name": "MEGALODON-MD",
+"name": "PRINCE-SER",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By DybyTech",
+  "description": "A WhatsApp Bot Created By PRINCE-SER",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MEGALODON-MD",
-    "stop": "pm2 stop MEGALODON-MD",
-    "restart": "pm2 restart MEGALODON-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name PRINCE-SER",
+    "stop": "pm2 stop PRINCE-SER",
+    "restart": "pm2 restart PRINCE-SER"
   },
   "dependencies": {
     "baileys": "npm:baileys-pro@0.0.5",
