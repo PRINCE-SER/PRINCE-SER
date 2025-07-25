@@ -1,32 +1,30 @@
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/aqg9Zky.png>
+</p>
 
--
-```
-DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
-```
----
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗣𝗥𝗜𝗡𝗖𝗘+𝗦𝗘𝗥;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+
+ </a>
+</p>
+
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/pjKI7O7.jpeg>
+</p>
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DybyTech?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DybyTech/MEGALODON-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DybyTech/MEGALODON-MD"><img title="Size" src="https://img.shields.io/github/repo-size/DybyTech/MEGALODON-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/DybyTech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/PRINCE-SER"><img title="Author" src="https://img.shields.io/badge/Author-prince ser-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
-
+</div>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=Red&center=true&vCenter=true&width=1000&height=200&lines=MEGALODON-MD;VERSION+2025;BY+DYBY+TECH" alt="Typing SVG" />
-  </a>
+𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗣𝗥𝗜𝗡𝗖𝗘 𝗦𝗘𝗥
+    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
-  
---- 
-
-<a><img src='https://files.catbox.moe/roubzi.jpg'/></a>
-
-
-
-***
 
 
 
