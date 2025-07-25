@@ -1,8 +1,8 @@
 {
-  "name": "MEGALODON-MD",
-  "description": "Javascript WhatsApp bot made by ᴅʏʙʏ ᴛᴇᴄʜ",
+  "name": "PRINCE-SER",
+  "description": "Javascript WhatsApp bot made by PRINCE-SER",
   "logo": "https://files.catbox.moe/frns4k.jpg",
-  "keywords": ["MEGALODON-MD"],
+  "keywords": ["PRINCE-SER"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "PRINCE-SER"
     }, 
       
     "PREFIX": {
@@ -83,9 +83,9 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "PRINCE-SER.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "PRINCE-SER"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "MEGALODON-MD"
+      "value": "PRINCE-SER"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ PRINCE-SER"
     },
 
       "DELETE_LINKS": {
