@@ -1,8 +1,8 @@
 
 {
     "bot-name": "PRINCE-SER",
-    "description": "Whiskey Sockets Baileys Whatsapp bot by DybyTech",
-    "logo": "https://files.catbox.moe/2ozipw.jpg",
+    "description": "Whiskey Sockets Baileys Whatsapp bot by PRINCE SER",
+    "logo": "https://i.imgur.com/aqg9Zky.png",
     "keywords": ["bot"],
     "documentation-link": "https://meg-lodon-session.onrender.com",
     "owner-verification": "herokutruem@gmail.com",
@@ -84,7 +84,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴅʏʙʏ ᴛᴇᴄʜ*"
+      "value": "PRINCE-SER"
 }, 
 
     "OWNER_NUMBER": {
