@@ -1,7 +1,7 @@
 {
   "name": "PRINCE-SER",
   "description": "Javascript WhatsApp bot made by PRINCE-SER",
-  "logo": "https://files.catbox.moe/frns4k.jpg",
+  "logo": "https://i.imgur.com/pjKI7O7.jpeg",
   "keywords": ["PRINCE-SER"],
   "success_url": "/",
 
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY MEGALODON-MD 🥶*"
+      "value": "*SEEN YOUR STATUS BY PRINCE-SER*"
    
      }, 
     
@@ -131,7 +131,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/frns4k.jpg"
+      "value": "https://i.imgur.com/pjKI7O7.jpeg"
     },
     
      "DESCRIPTION": {
